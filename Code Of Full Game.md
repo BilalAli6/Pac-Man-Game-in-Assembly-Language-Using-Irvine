@@ -12,7 +12,7 @@ This project is a recreation of the classic Pac-Man game using Assembly Language
 - **Sound Effects**: Adds audio feedback for a more engaging experience.
 
 ## View the Project Directly
-[Click here to download the project](https://drive.google.com/file/d/1EOb_x2TPONqdgaXXYvpU5ht4_lejLQqt/view?usp=sharing).
+[Click here to view the project](https://drive.google.com/file/d/1EOb_x2TPONqdgaXXYvpU5ht4_lejLQqt/view?usp=sharing).
 
 ## Download the Project
 [Click here to download the project](https://drive.google.com/file/d/1EOb_x2TPONqdgaXXYvpU5ht4_lejLQqt/view?usp=sharing).
