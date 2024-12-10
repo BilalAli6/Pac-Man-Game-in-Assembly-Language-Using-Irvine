@@ -56,6 +56,12 @@ This repository contains a Pac-Man game developed in Assembly Language using the
 
 <img width="716" alt="image" src="https://github.com/user-attachments/assets/71b24e8c-b93c-4328-9a78-c097b9768104">
 
+## View the Project Directly
+[Click here to view the project](https://drive.google.com/file/d/1EOb_x2TPONqdgaXXYvpU5ht4_lejLQqt/view?usp=sharing).
+
+## Download the Project
+[Click here to download the project](https://drive.google.com/file/d/1EOb_x2TPONqdgaXXYvpU5ht4_lejLQqt/view?usp=sharing).
+
 
 
 
